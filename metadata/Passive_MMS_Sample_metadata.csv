@@ -1,0 +1,651 @@
+S/N,Month,Collection Date,Village,Age,Sex,Fever,Slide collected,DBS collected,Treatment History,Travel History,Field Sample collection ID,RDT results,Sample ID,health_facility
+1,November,2025-11-03,Zesco,13.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/001,Positive,8034394,WP09_Kaoma
+2,November,2025-11-05,Mahilo,5.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/002,Positive,8034395,WP09_Kaoma
+3,November,2025-11-05,Folkland,13.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/003,Positive,8034396,WP09_Kaoma
+4,November,2025-11-05,Mungongo,18.0,M,Yes,Yes,Yes,No,Yes,WP-09/11-25/004,Positive,8034397,WP09_Kaoma
+5,November,2025-11-06,Kapupa,20.0,F,No,Yes,Yes,No,No,WP-09/11-25/005,Positive,8034398,WP09_Kaoma
+6,November,2025-11-06,Mulambwa,31.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/006,Positive,8034399,WP09_Kaoma
+7,November,2025-11-06,Zesco,17.0,F,No,Yes,Yes,No,No,WP-09/11-25/007,Positive,8034400,WP09_Kaoma
+8,November,2025-11-06,Mahilo,2.0,M,No,Yes,Yes,Yes,No,WP-09/11-25/008,Positive,8034401,WP09_Kaoma
+9,November,2025-11-06,Mungongo,2.0,M,No,Yes,Yes,No,No,WP-09/11-25/009,Positive,8034402,WP09_Kaoma
+10,November,2025-11-06,Kankamba,5.0,F,No,Yes,Yes,No,No,WP-09/11-25/010,Positive,8034403,WP09_Kaoma
+11,November,2025-11-06,Mulambwa,24.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/011,Positive,8034404,WP09_Kaoma
+12,November,2025-11-06,Mulambwa,10.0,M,No,Yes,Yes,No,No,WP-09/11-25/012,Positive,8034405,WP09_Kaoma
+13,November,2025-11-07,Mulambwa,14.0,F,No,Yes,Yes,No,No,WP-09/11-25/013,Positive,8034406,WP09_Kaoma
+14,November,2025-11-07,Kashamu,26.0,F,No,Yes,Yes,No,No,WP-09/11-25/014,Positive,8034407,WP09_Kaoma
+15,November,2025-11-09,Mahilo,8.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/015,Positive,8034408,WP09_Kaoma
+16,November,2025-11-10,Mukanda mina,34.0,M,Yes,Yes,Yes,Yes,No,WP-09/11-25/016,Positive,8034409,WP09_Kaoma
+17,November,2025-11-10,Kashamu,2.0,M,Yes,Yes,Yes,Yes,No,WP-09/11-25/017,Positive,8034410,WP09_Kaoma
+18,November,2025-11-10,Site and service,22.0,F,No,Yes,Yes,No,No,WP-09/11-25/018,Positive,8034411,WP09_Kaoma
+19,November,2025-11-10,Mungongo,19.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/019,Positive,8034412,WP09_Kaoma
+20,November,2025-11-10,Mahilo,11.0,F,No,Yes,Yes,No,No,WP-09/11-25/020,Positive,8034413,WP09_Kaoma
+21,November,2025-11-11,Mwanche,2.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/021,Positive,8034414,WP09_Kaoma
+22,November,2025-11-11,Site and service,35.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/022,Positive,8034415,WP09_Kaoma
+23,November,2025-11-11,Kashamu,10.0,M,No,Yes,Yes,No,No,WP-09/11-25/023,Positive,8034416,WP09_Kaoma
+24,November,2025-11-12,Mungongo,24.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/024,Positive,8034417,WP09_Kaoma
+25,November,2025-11-12,Mulambwa,13.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/025,Positive,8034418,WP09_Kaoma
+26,November,2025-11-12,Mulambwa,8.0,F,Yes,Yes,Yes,Yes,No,WP-09/11-25/026,Positive,8034419,WP09_Kaoma
+27,November,2025-11-12,Mahilo,12.0,F,No,Yes,Yes,No,No,WP-09/11-25/027,Positive,8034420,WP09_Kaoma
+28,November,2025-11-12,Mulambwa,30.0,F,No,Yes,Yes,No,No,WP-09/11-25/028,Positive,8034421,WP09_Kaoma
+29,November,2025-11-12,Mulambwa,16.0,F,No,Yes,Yes,No,No,WP-09/11-25/029,Positive,8034422,WP09_Kaoma
+30,November,2025-11-12,Mahilo,22.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/030,Positive,8034423,WP09_Kaoma
+31,November,2025-11-13,Mulambwa,32.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/031,Positive,8034424,WP09_Kaoma
+32,November,2025-11-13,Mulambwa,22.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/032,Positive,8034425,WP09_Kaoma
+33,November,2025-11-13,Kaoma Secondary,18.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/033,Positive,8034426,WP09_Kaoma
+34,November,2025-11-13,Zesco,19.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/034,Positive,8034427,WP09_Kaoma
+35,November,2025-11-14,Mulambwa,5.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/035,Positive,8034428,WP09_Kaoma
+36,November,2025-11-14,Mahilo,20.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/036,Positive,8034429,WP09_Kaoma
+37,November,2025-11-15,Zesco,12.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/037,Positive,8034430,WP09_Kaoma
+38,November,2025-11-16,Mulambwa,12.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/038,Positive,8034431,WP09_Kaoma
+39,November,2025-11-16,Mahilo,25.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/039,Positive,8034432,WP09_Kaoma
+40,November,2025-11-17,Mahilo,12.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/040,Positive,8034433,WP09_Kaoma
+41,November,2025-11-17,Mungongo,11.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/041,Positive,8034434,WP09_Kaoma
+42,November,2025-11-17,Site and service,35.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/042,Positive,8034435,WP09_Kaoma
+43,November,2025-11-17,Site and service,42.0,F,Yes,Yes,Yes,No,No,WP-09/11-25/043,Positive,8034436,WP09_Kaoma
+44,November,2025-11-17,Mahilo,7.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/044,Positive,8034437,WP09_Kaoma
+45,November,2025-11-17,Site and service,4.0,M,Yes,Yes,Yes,Yes,No,WP-09/11-25/045,Positive,8034438,WP09_Kaoma
+46,November,2025-11-17,Mahilo,13.0,M,Yes,Yes,Yes,Yes,No,WP-09/11-25/046,Positive,8034439,WP09_Kaoma
+47,November,2025-11-17,Mulabwa,1.0,M,No,Yes,Yes,No,No,WP-09/11-25/047,Positive,8034440,WP09_Kaoma
+48,November,2025-11-17,Mulabwa,23.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/048,Positive,8034441,WP09_Kaoma
+49,November,2025-11-18,Mungongo,9.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/049,Positive,8034442,WP09_Kaoma
+50,November,2025-11-19,Mahilo,1.0,M,Yes,Yes,Yes,No,No,WP-09/11-25/050,Positive,8034443,WP09_Kaoma
+1,December,2025-12-02,Mulambwa,6.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/001,Positive,8034661,WP09_Kaoma
+2,December,2025-12-02,Mahilo,13.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/002,Positive,8034662,WP09_Kaoma
+3,December,2025-12-02,Mahilo,15.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/003,Positive,8034663,WP09_Kaoma
+4,December,2025-12-02,Kashokoto,50.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/004,Positive,8034664,WP09_Kaoma
+5,December,2025-12-02,Kalapu,21.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/005,Positive,8034665,WP09_Kaoma
+6,December,2025-12-02,Kaoma Jdolga,1.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/006,Positive,8034666,WP09_Kaoma
+7,December,2025-12-03,Mulambwa,17.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/007,Positive,8034667,WP09_Kaoma
+8,December,2025-12-03,Longe,9.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/008,Positive,8034668,WP09_Kaoma
+9,December,2025-12-03,Mungongo,20.0,F,nan,Yes,Yes,nan,nan,WP-09/12-25/009,Positive,8034669,WP09_Kaoma
+10,December,2025-12-03,Kashokoto,13.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/010,Positive,8034670,WP09_Kaoma
+11,December,2025-12-03,Kashokoto,16.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/011,Positive,8034671,WP09_Kaoma
+12,December,2025-12-03,Mungongo,17.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/012,Positive,8034672,WP09_Kaoma
+13,December,2025-12-04,Kashokoto,6.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/013,Positive,8034673,WP09_Kaoma
+14,December,2025-12-04,Kaoma Sec,14.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/014,Positive,8034674,WP09_Kaoma
+15,December,2025-12-04,Mahilo,2.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/015,Positive,8034675,WP09_Kaoma
+16,December,2025-12-04,Mahilo,9.0,M,nan,Yes,Yes,nan,nan,WP-09/12-25/016,Positive,8034676,WP09_Kaoma
+17,December,2025-12-04,Chitakula,8.0,M,nan,Yes,Yes,nan,nan,WP-09/12-25/017,Positive,8034677,WP09_Kaoma
+18,December,2025-12-04,Mulambwa,35.0,F,nan,Yes,Yes,nan,nan,WP-09/12-25/018,Positive,8034678,WP09_Kaoma
+19,December,2025-12-04,Mulamatila,18.0,F,nan,Yes,Yes,nan,nan,WP-09/12-25/019,Positive,8034679,WP09_Kaoma
+20,December,2025-12-04,Mulamatila,3.0,M,nan,Yes,Yes,nan,nan,WP-09/12-25/020,Positive,8034680,WP09_Kaoma
+21,December,2025-12-04,Mulamatila,6.0,M,nan,Yes,Yes,nan,nan,WP-09/12-25/021,Positive,8034681,WP09_Kaoma
+22,December,2025-12-05,Mahilo,6.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/022,Positive,8034682,WP09_Kaoma
+23,December,2025-12-05,Site & Service,25.0,F,nan,Yes,Yes,nan,nan,WP-09/12-25/023,Positive,8034683,WP09_Kaoma
+24,December,2025-12-05,Mungongo,38.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/024,Positive,8034684,WP09_Kaoma
+25,December,2025-12-05,Wadada,10.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/025,Positive,8034685,WP09_Kaoma
+26,December,2025-12-05,Site & Service,16.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/026,Positive,8034686,WP09_Kaoma
+27,December,2025-12-05,Zesco,10.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/027,Positive,8034687,WP09_Kaoma
+28,December,2025-12-05,Zesco,73.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/028,Positive,8034688,WP09_Kaoma
+29,December,2025-12-05,Mulambwa,17.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/029,Positive,8034689,WP09_Kaoma
+30,December,2025-12-10,Mulambwa,14.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/030,Positive,8034690,WP09_Kaoma
+31,December,2025-12-10,Mahilo,10.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/031,Positive,8034691,WP09_Kaoma
+32,December,2025-12-10,Mulambwa,4.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/032,Positive,8034692,WP09_Kaoma
+33,December,2025-12-10,Mulambwa,22.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/033,Positive,8034693,WP09_Kaoma
+34,December,2025-12-10,Kashokoto,15.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/034,Positive,8034694,WP09_Kaoma
+35,December,2025-12-10,Mahilo,3.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/035,Positive,8034695,WP09_Kaoma
+36,December,2025-12-10,Mahilo,25.0,M,nan,Yes,Yes,nan,nan,WP-09/12-25/036,Positive,8034696,WP09_Kaoma
+37,December,2025-12-10,Mungongo,17.0,F,nan,Yes,Yes,nan,nan,WP-09/12-25/037,Positive,8034697,WP09_Kaoma
+38,December,2025-12-10,Mungongo,8.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/038,Positive,8034698,WP09_Kaoma
+39,December,2025-12-10,Mahilo,11.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/039,Positive,8034699,WP09_Kaoma
+40,December,2025-12-10,Site & Service,16.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/040,Positive,8034700,WP09_Kaoma
+41,December,2025-12-11,Zesco,33.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/041,Positive,8034701,WP09_Kaoma
+42,December,2025-12-11,Site & Service,12.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/042,Positive,8034702,WP09_Kaoma
+43,December,2025-12-11,Mwilambwa,17.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/043,Positive,8034703,WP09_Kaoma
+44,December,2025-12-12,Site & Service,21.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/044,Positive,8034704,WP09_Kaoma
+45,December,2025-12-12,Airport,4.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/045,Positive,8034705,WP09_Kaoma
+46,December,2025-12-16,Mahilo,3.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/046,Positive,8034706,WP09_Kaoma
+47,December,2025-12-16,Site & Service,16.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/047,Positive,8034707,WP09_Kaoma
+48,December,2025-12-16,Site & Service,3.0,F,Yes,Yes,Yes,nan,nan,WP-09/12-25/048,Positive,8034708,WP09_Kaoma
+59,December,2025-12-16,Mahilo,5.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/049,Positive,8034709,WP09_Kaoma
+50,December,2025-12-16,Mahilo,10.0,M,Yes,Yes,Yes,nan,nan,WP-09/12-25/050,Positive,8034710,WP09_Kaoma
+1,January,2026-01-05,Mulambwa,6.0,F,No,Yes,Yes,Yes,No,WP-09/01-26/001,Positive,8033524,WP09_Kaoma
+2,January,2026-01-08,Machilo,1.0,F,No,Yes,Yes,No,No,WP-09/01-26/002,Positive,8033525,WP09_Kaoma
+3,January,2026-01-08,Mulambwa,5.0,M,Yes,Yes,Yes,Yes,No,WP-09/01-26/003,Positive,8033526,WP09_Kaoma
+4,January,2026-01-08,Naliele,93.0,F,No,Yes,Yes,No,No,WP-09/01-26/004,Positive,8033527,WP09_Kaoma
+5,January,2026-01-12,Machilo,18.0,F,No,Yes,Yes,Yes,No,WP-09/01-26/005,Positive,8033528,WP09_Kaoma
+6,January,2026-01-12,Machilo,5.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/006,Positive,8033529,WP09_Kaoma
+7,January,2026-01-12,Kamandasa,65.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/007,Positive,8033530,WP09_Kaoma
+8,January,2026-01-12,Machilo,20.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/008,Positive,8033531,WP09_Kaoma
+9,January,2026-01-12,Machilo,3.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/009,Positive,8033532,WP09_Kaoma
+10,January,2026-01-12,Machilo,15.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/010,Positive,8033533,WP09_Kaoma
+11,January,2026-01-12,Mulambwa,19.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/011,Positive,8033534,WP09_Kaoma
+12,January,2026-01-12,Machilo,43.0,M,No,Yes,Yes,No,No,WP-09/01-26/012,Positive,8033535,WP09_Kaoma
+13,January,2026-01-12,Kapupa,52.0,F,No,Yes,Yes,No,No,WP-09/01-26/013,Positive,8033536,WP09_Kaoma
+14,January,2026-01-13,Mungongo,8.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/014,Positive,8033537,WP09_Kaoma
+15,January,2026-01-13,Mulambwa,9.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/015,Positive,8033538,WP09_Kaoma
+16,January,2026-01-13,Kashokoto,1.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/016,Positive,8033539,WP09_Kaoma
+17,January,2026-01-19,Kashokoto,90.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/017,Positive,8033540,WP09_Kaoma
+18,January,2026-01-19,Folkland,8.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/018,Positive,8033541,WP09_Kaoma
+19,January,2026-01-19,Chmunzi,17.0,F,No,Yes,Yes,No,No,WP-09/01-26/019,Positive,8033542,WP09_Kaoma
+20,January,2026-01-20,Site  and Service,17.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/020,Positive,8033543,WP09_Kaoma
+21,January,2026-01-19,Mulambwa,14.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/021,Positive,8033544,WP09_Kaoma
+22,January,2026-01-19,Kasco,18.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/022,Positive,8033545,WP09_Kaoma
+23,January,2026-01-19,Site  and Service,15.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/023,Positive,8033546,WP09_Kaoma
+24,January,2026-01-19,Naliele,1.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/024,Positive,8033547,WP09_Kaoma
+25,January,2026-01-19,Machilo,24.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/025,Positive,8033548,WP09_Kaoma
+26,January,2026-01-19,Mulambwa,16.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/026,Positive,8033549,WP09_Kaoma
+27,January,2026-01-19,Kasco,16.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/027,Positive,8033550,WP09_Kaoma
+28,January,2026-01-19,Kasco,14.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/028,Positive,8033551,WP09_Kaoma
+29,January,2026-01-19,Kasco,14.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/029,Positive,8033552,WP09_Kaoma
+30,January,2026-01-19,Mungongo,31.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/030,Positive,8033553,WP09_Kaoma
+31,January,2026-01-19,Mungongo,16.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/031,Positive,8033554,WP09_Kaoma
+32,January,2026-01-19,Kamandonga,2.0,F,No,Yes,Yes,No,No,WP-09/01-26/032,Positive,8033555,WP09_Kaoma
+33,January,2026-01-19,Wadada,15.0,M,No,Yes,Yes,No,No,WP-09/01-26/033,Positive,8033556,WP09_Kaoma
+34,January,2026-01-19,Kasco,16.0,M,No,Yes,Yes,No,No,WP-09/01-26/034,Positive,8033557,WP09_Kaoma
+35,January,2026-01-19,Kasco,15.0,M,No,Yes,Yes,No,No,WP-09/01-26/035,Positive,8033558,WP09_Kaoma
+36,January,2026-01-19,Mulambwa,30.0,F,No,Yes,Yes,No,No,WP-09/01-26/036,Positive,8033559,WP09_Kaoma
+37,January,2026-01-19,Chilambo,54.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/037,Positive,8033560,WP09_Kaoma
+38,January,2026-01-19,Site  and Service,17.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/038,Positive,8033561,WP09_Kaoma
+39,January,2026-01-19,Site  and Service,12.0,M,No,Yes,Yes,No,No,WP-09/01-26/039,Positive,8033562,WP09_Kaoma
+40,January,2026-01-19,Site  and Service,15.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/040,Positive,8033563,WP09_Kaoma
+41,January,2026-01-19,Kasco,17.0,F,No,Yes,Yes,No,No,WP-09/01-26/041,Positive,8033564,WP09_Kaoma
+42,January,2026-01-19,Kasco,15.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/042,Positive,8033565,WP09_Kaoma
+43,January,2026-01-19,Stedium,13.0,M,Yes,Yes,Yes,No,No,WP-09/01-26/043,Positive,8033566,WP09_Kaoma
+44,January,2026-01-19,Machilo,11.0,F,No,Yes,Yes,No,No,WP-09/01-26/044,Positive,8033567,WP09_Kaoma
+45,January,2026-01-19,Kasco,16.0,F,No,Yes,Yes,No,No,WP-09/01-26/045,Positive,8033568,WP09_Kaoma
+46,January,2026-01-19,Mulambwa,5.0,M,No,Yes,Yes,No,No,WP-09/01-26/046,Positive,8033569,WP09_Kaoma
+47,January,2026-01-19,Mulambwa,8.0,M,No,Yes,Yes,No,No,WP-09/01-26/047,Positive,8033570,WP09_Kaoma
+48,January,2026-01-19,Zesco,3.0,F,Yes,Yes,Yes,No,No,WP-09/01-26/048,Positive,8033571,WP09_Kaoma
+49,January,2026-01-19,Mulambwa,5.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/049,Positive,8033572,WP09_Kaoma
+50,January,2026-01-19,Mulambwa,4.0,F,Yes,Yes,Yes,Yes,No,WP-09/01-26/050,Positive,8033573,WP09_Kaoma
+1,September,2025-09-02,Kawama,23.0,F,No,Yes,Yes,No,No,NWP-07/09-25/001,Positive,8034284,NWP07_Kabisonga
+2,September,2025-09-02,Nkeyama,8.0,M,Yes,Yes,Yes,No,No,NWP-07/09-25/002,Positive,8034285,NWP07_Kabisonga
+3,September,2025-09-03,Nkeyama,13.0,M,Yes,Yes,Yes,No,No,NWP-07/09-25/003,Positive,8034286,NWP07_Kabisonga
+4,September,2025-09-09,Nkeyama,16.0,M,No,Yes,Yes,No,No,NWP-07/09-25/004,Positive,8034287,NWP07_Kabisonga
+5,September,2025-09-10,F.T.C,11.0,M,Yes,Yes,Yes,No,No,NWP-07/09-25/005,Positive,8034288,NWP07_Kabisonga
+6,September,2025-09-11,Nkeyama,7.0,M,No,Yes,Yes,No,No,NWP-07/09-25/006,Positive,8034289,NWP07_Kabisonga
+7,September,2025-09-14,Kabisonga,50.0,F,No,Yes,Yes,No,Yes,NWP-07/09-25/007,Positive,8034290,NWP07_Kabisonga
+8,September,2025-09-17,Kabisonga,61.0,M,Yes,Yes,Yes,No,No,NWP-07/09-25/008,Positive,8034291,NWP07_Kabisonga
+9,September,2025-09-19,Nkeyama,9.0,F,Yes,Yes,Yes,No,No,NWP-07/09-25/009,Positive,8034292,NWP07_Kabisonga
+10,September,2025-09-19,Kabisonga,14.0,M,No,Yes,Yes,No,No,NWP-07/09-25/010,Positive,8034293,NWP07_Kabisonga
+11,September,2025-09-19,Kabisonga,68.0,M,No,Yes,Yes,No,No,NWP-07/09-25/011,Positive,8034294,NWP07_Kabisonga
+1,October,2025-10-03,Nyakwanda,3.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/001,Positive,8034711,NWP02_Zambezi
+2,October,2025-10-03,kabambi,3.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/002,Positive,8034712,NWP02_Zambezi
+3,October,2025-10-07,Nyakwanda,9.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/003,Positive,8034713,NWP02_Zambezi
+4,October,2025-10-07,kabambi,16.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/004,Positive,8034714,NWP02_Zambezi
+5,October,2025-10-07,Nyakwanda,1.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/005,Positive,8034715,NWP02_Zambezi
+6,October,2025-10-10,Nyakwanda,5.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/006,Positive,8034716,NWP02_Zambezi
+7,October,2025-10-10,kabambi,14.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/007,Positive,8034717,NWP02_Zambezi
+8,October,2025-10-10,Kalala,23.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/008,Positive,8034718,NWP02_Zambezi
+9,October,2025-10-10,kabambi,14.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/009,Positive,8034719,NWP02_Zambezi
+10,October,2025-10-15,Adama,9.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/010,Positive,8034720,NWP02_Zambezi
+11,October,2025-10-15,Kalala,15.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/011,Positive,8034721,NWP02_Zambezi
+12,October,2025-10-15,Kanema,5.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/012,Positive,8034722,NWP02_Zambezi
+13,October,2025-10-15,kabambi,18.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/013,Positive,8034723,NWP02_Zambezi
+14,October,2025-10-15,Sowulu,12.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/014,Positive,8034724,NWP02_Zambezi
+15,October,2025-10-17,Kanema,2.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/015,Positive,8034725,NWP02_Zambezi
+16,October,2025-10-17,Nyakwanda,17.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/016,Positive,8034726,NWP02_Zambezi
+17,October,2025-10-17,Kanema,0.5,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/017,Positive,8034727,NWP02_Zambezi
+18,October,2025-10-17,Sowulu,7.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/018,Positive,8034728,NWP02_Zambezi
+19,October,2025-10-22,Sowulu,8.0,M,Yes,Yes,Yes,nan,nan,NWP-02/10-25/019,Positive,8034729,NWP02_Zambezi
+20,October,2025-10-22,Chizeza,33.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/020,Positive,8034730,NWP02_Zambezi
+21,October,2025-10-31,Musameula,25.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/021,Positive,8034731,NWP02_Zambezi
+22,October,2025-10-31,kabambi,29.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/022,Positive,8034732,NWP02_Zambezi
+23,October,2025-10-31,Kanema,15.0,F,Yes,Yes,Yes,nan,nan,NWP-02/10-25/023,Positive,8034733,NWP02_Zambezi
+1,August,2025-08-18,Chitambala,19.0,M,Yes,Yes,Yes,No,No,CP-06/08-25/001,Positive,8034181,CP06_Mutaba HC
+2,August,2025-08-18,Chitambala,5.0,M,Yes,Yes,Yes,No,No,CP-06/08-25/002,Positive,8034182,CP06_Mutaba HC
+3,August,2025-08-18,Machilika,0.91,F,Yes,Yes,Yes,Yes,No,CP-06/08-25/003,Positive,8034183,CP06_Mutaba HC
+4,August,2025-08-19,Chitambala,3.0,M,Yes,Yes,Yes,Yes,No,CP-06/08-25/004,Positive,8034184,CP06_Mutaba HC
+5,August,2025-08-20,Damson,5.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/005,Positive,8034185,CP06_Mutaba HC
+6,August,2025-08-20,Kafukanya,5.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/006,Positive,8034186,CP06_Mutaba HC
+7,August,2025-08-22,KGP,3.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/007,Positive,8034187,CP06_Mutaba HC
+8,August,2025-08-22,Musamba,3.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/008,Positive,8034188,CP06_Mutaba HC
+9,August,2025-08-23,Musashilumba,4.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/009,Positive,8034189,CP06_Mutaba HC
+10,August,2025-08-25,Kasempa,11.0,F,Yes,Yes,Yes,Yes,No,CP-06/08-25/010,Positive,8034190,CP06_Mutaba HC
+11,August,2025-08-25,Lukanda B,7.0,M,Yes,Yes,Yes,Yes,No,CP-06/08-25/011,Positive,8034191,CP06_Mutaba HC
+12,August,2025-08-25,Chitambala,58.0,M,Yes,Yes,Yes,Yes,No,CP-06/08-25/012,Positive,8034192,CP06_Mutaba HC
+13,August,2025-08-28,Chitambala,3.0,F,Yes,Yes,Yes,No,No,CP-06/08-25/013,Positive,8034193,CP06_Mutaba HC
+14,August,2025-08-29,Chitambala,1.0,M,Yes,Yes,Yes,No,No,CP-06/08-25/014,Positive,8034194,CP06_Mutaba HC
+15,August,2025-08-30,Shalumba,15.0,M,Yes,Yes,Yes,No,No,CP-06/08-25/015,Positive,8034195,CP06_Mutaba HC
+16,August,2025-08-31,Mayuya,4.0,M,Yes,Yes,Yes,Yes,No,CP-06/08-25/016,Positive,8034196,CP06_Mutaba HC
+1,September,2025-09-03,Chitambala,1.0,M,Yes,Yes,Yes,Yes,Yes,CP-06/09-25/001,Positive,8034197,CP06_Mutaba HC
+2,September,2025-09-03,Kamakonde,8.0,M,Yes,Yes,Yes,Yes,No,CP-06/09-25/002,Positive,8034198,CP06_Mutaba HC
+3,September,2025-09-03,Damson,3.0,M,Yes,Yes,Yes,Yes,No,CP-06/09-25/003,Positive,8034199,CP06_Mutaba HC
+4,September,2025-09-05,Turn-Off,8.0,M,Yes,Yes,Yes,No,Yes,CP-06/09-25/004,Positive,8034200,CP06_Mutaba HC
+5,September,2025-09-09,Malureni,10.0,F,Yes,Yes,Yes,No,No,CP-06/09-25/005,Positive,8034201,CP06_Mutaba HC
+6,September,2025-09-10,Damson,10.0,F,Yes,Yes,Yes,Yes,No,CP-06/09-25/006,Positive,8034202,CP06_Mutaba HC
+7,September,2025-09-11,Damson,8.0,F,Yes,Yes,Yes,No,No,CP-06/09-25/007,Positive,8034203,CP06_Mutaba HC
+8,September,2025-09-13,Chinika,8.0,F,Yes,Yes,Yes,Yes,No,CP-06/09-25/008,Positive,8034204,CP06_Mutaba HC
+9,September,2025-09-17,Shalimba,4.0,M,Yes,Yes,Yes,No,No,CP-06/09-25/009,Positive,8034205,CP06_Mutaba HC
+10,September,2025-09-23,Chitambala,10.0,F,Yes,Yes,Yes,Yes,No,CP-06/09-25/010,Positive,8034206,CP06_Mutaba HC
+11,September,2025-09-23,Kasempa,14.0,M,Yes,Yes,Yes,No,No,CP-06/09-25/011,Positive,8034207,CP06_Mutaba HC
+12,September,2025-09-24,Shalimba,4.0,M,Yes,Yes,Yes,No,No,CP-06/09-25/012,Positive,8034208,CP06_Mutaba HC
+13,September,2025-09-24,Kwasulwe Pensulo,16.0,M,Yes,Yes,Yes,No,No,CP-06/09-25/013,Positive,8034209,CP06_Mutaba HC
+14,September,2025-09-30,Sole,25.0,M,Yes,Yes,Yes,No,No,CP-06/09-25/014,Positive,8034210,CP06_Mutaba HC
+1,October,2025-10-03,Mangala,17.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/001,Positive,8034211,CP06_Mutaba HC
+2,October,2025-10-03,Malubeni,49.0,F,Yes,Yes,Yes,No,No,CP-06/10-25/002,Positive,8034212,CP06_Mutaba HC
+3,October,2025-10-12,Shalimba,17.0,M,Yes,Yes,Yes,No,Yes,CP-06/10-25/003,Positive,8034213,CP06_Mutaba HC
+4,October,2025-10-13,Malubeni,12.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/004,Positive,8034214,CP06_Mutaba HC
+5,October,2025-10-13,Malubeni,7.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/005,Positive,8034215,CP06_Mutaba HC
+6,October,2025-10-14,Chitambala,31.0,F,Yes,Yes,Yes,Yes,No,CP-06/10-25/006,Positive,8034216,CP06_Mutaba HC
+7,October,2025-10-15,Shalimba,1.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/007,Positive,8034217,CP06_Mutaba HC
+8,October,2025-10-17,Chitambala,3.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/008,Positive,8034218,CP06_Mutaba HC
+9,October,2025-10-18,Bombwe,8.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/009,Positive,8034219,CP06_Mutaba HC
+10,October,2025-10-22,Malubeni,36.0,F,Yes,Yes,Yes,No,No,CP-06/10-25/010,Positive,8034220,CP06_Mutaba HC
+11,October,2025-10-29,Kafukanya,12.0,F,Yes,Yes,Yes,Yes,No,CP-06/10-25/011,Positive,8034221,CP06_Mutaba HC
+12,October,2025-10-29,Kafukanya,8.0,F,Yes,Yes,Yes,Yes,Yes,CP-06/10-25/012,Positive,8034222,CP06_Mutaba HC
+13,October,2025-10-30,Damso,25.0,M,Yes,Yes,Yes,No,No,CP-06/10-25/013,Positive,8034223,CP06_Mutaba HC
+1,November,2025-11-13,Kambono,7.0,F,Yes,Yes,Yes,Yes,No,CP-06/11-25/001,Positive,8034224,CP06_Mutaba HC
+2,November,2025-11-13,Kambono,5.0,M,Yes,Yes,Yes,Yes,No,CP-06/11-25/002,Positive,8034225,CP06_Mutaba HC
+1,November,2025-11-06,Scheme,3.0,M,No,Yes,Yes,No,No,CP-03/11-25/001,Positive,8034444,CP03_Mulilima
+2,November,2025-11-06,X/4,32.0,M,No,Yes,Yes,No,No,CP-03/11-25/002,Positive,8034445,CP03_Mulilima
+3,November,2025-11-06,Mpemba,2.0,F,No,Yes,Yes,No,No,CP-03/11-25/003,Positive,8034446,CP03_Mulilima
+4,November,2025-11-07,Scheme,20.0,F,No,Yes,Yes,No,No,CP-03/11-25/004,Positive,8034447,CP03_Mulilima
+5,November,2025-11-07,Scheme,18.0,F,No,Yes,Yes,No,No,CP-03/11-25/005,Positive,8034448,CP03_Mulilima
+6,November,2025-11-08,Kesumba,14.0,M,No,Yes,Yes,No,No,CP-03/11-25/006,Positive,8034449,CP03_Mulilima
+7,November,2025-11-08,Ridge 7,24.0,M,No,Yes,Yes,No,No,CP-03/11-25/007,Positive,8034450,CP03_Mulilima
+8,November,2025-11-13,Mpemba,7.0,M,No,Yes,Yes,No,No,CP-03/11-25/008,Positive,8034451,CP03_Mulilima
+9,November,2025-11-13,Mpemba,11.0,F,No,Yes,Yes,No,No,CP-03/11-25/009,Positive,8034452,CP03_Mulilima
+10,November,2025-11-13,Mpemba,13.0,M,No,Yes,Yes,No,No,CP-03/11-25/010,Positive,8034453,CP03_Mulilima
+11,November,2025-11-13,Mpemba,4.0,M,No,Yes,Yes,No,No,CP-03/11-25/011,Positive,8034454,CP03_Mulilima
+12,November,2025-11-13,Mpemba,33.0,F,No,Yes,Yes,No,No,CP-03/11-25/012,Positive,8034455,CP03_Mulilima
+13,November,2025-11-13,Luombwa,14.0,F,No,Yes,Yes,No,No,CP-03/11-25/013,Positive,8034456,CP03_Mulilima
+14,November,2025-11-13,Luombwa,9.0,M,No,Yes,Yes,No,No,CP-03/11-25/014,Positive,8034457,CP03_Mulilima
+15,November,2025-11-15,Luombwa,31.0,F,No,Yes,Yes,No,No,CP-03/11-25/015,Positive,8034458,CP03_Mulilima
+16,November,2025-11-15,Ridge 3,22.0,F,No,Yes,Yes,No,No,CP-03/11-25/016,Positive,8034459,CP03_Mulilima
+17,November,2025-11-15,Mpemba,7.0,M,No,Yes,Yes,No,No,CP-03/11-25/017,Positive,8034460,CP03_Mulilima
+18,November,2025-11-15,Mpemba,4.0,M,No,Yes,Yes,No,No,CP-03/11-25/018,Positive,8034461,CP03_Mulilima
+19,November,2025-11-15,Mpemba,8.0,F,No,Yes,Yes,No,No,CP-03/11-25/019,Positive,8034462,CP03_Mulilima
+20,November,2025-11-15,Luombwa,12.0,M,No,Yes,Yes,No,No,CP-03/11-25/020,Positive,8034463,CP03_Mulilima
+21,November,2025-11-15,Ridge 8,2.0,M,No,Yes,Yes,No,No,CP-03/11-25/021,Positive,8034464,CP03_Mulilima
+22,November,2025-11-15,Forest,25.0,F,No,Yes,Yes,No,No,CP-03/11-25/022,Positive,8034465,CP03_Mulilima
+1,December,2025-12-01,Mimbulu,3.0,M,No,Yes,Yes,No,No,CP-03/12-25/001,Positive,8034466,CP03_Mulilima
+2,December,2025-12-01,Luombwa,5.0,F,No,Yes,Yes,No,No,CP-03/12-25/002,Positive,8034467,CP03_Mulilima
+3,December,2025-12-01,Luombwa,2.0,F,No,Yes,Yes,No,No,CP-03/12-25/003,Positive,8034468,CP03_Mulilima
+4,December,2025-12-01,Mwabwela,3.0,M,No,Yes,Yes,No,No,CP-03/12-25/004,Positive,8034469,CP03_Mulilima
+5,December,2025-12-01,Kebinda,11.0,M,No,Yes,Yes,No,No,CP-03/12-25/005,Positive,8034470,CP03_Mulilima
+6,December,2025-12-01,Mpemba,11.0,M,No,Yes,Yes,No,No,CP-03/12-25/006,Positive,8034471,CP03_Mulilima
+7,December,2025-12-01,Mpemba,9.0,M,No,Yes,Yes,No,No,CP-03/12-25/007,Positive,8034472,CP03_Mulilima
+8,December,2025-12-01,Mpemba,18.0,M,No,Yes,Yes,No,No,CP-03/12-25/008,Positive,8034473,CP03_Mulilima
+9,December,2025-12-01,Kalila,18.0,F,No,Yes,Yes,No,No,CP-03/12-25/009,Positive,8034474,CP03_Mulilima
+10,December,2025-12-01,Kalila,5.0,M,No,Yes,Yes,No,No,CP-03/12-25/010,Positive,8034475,CP03_Mulilima
+11,December,2025-12-01,Mpemba,9.0,M,No,Yes,Yes,No,No,CP-03/12-25/011,Positive,8034476,CP03_Mulilima
+12,December,2025-12-01,Mpemba,8.12,F,Yes,Yes,Yes,No,No,CP-03/12-25/012,Positive,8034477,CP03_Mulilima
+13,December,2025-12-04,4 ways,3.0,F,No,Yes,Yes,No,No,CP-03/12-25/013,Positive,8034478,CP03_Mulilima
+14,December,2025-12-04,4 ways,10.12,M,No,Yes,Yes,No,No,CP-03/12-25/014,Positive,8034479,CP03_Mulilima
+15,December,2025-12-04,Mulilima,11.0,M,No,Yes,Yes,No,No,CP-03/12-25/015,Positive,8034480,CP03_Mulilima
+16,December,2025-12-04,Kalila,12.0,M,No,Yes,Yes,No,No,CP-03/12-25/016,Positive,8034481,CP03_Mulilima
+17,December,2025-12-04,4 ways,8.0,M,No,Yes,Yes,No,No,CP-03/12-25/017,Positive,8034482,CP03_Mulilima
+18,December,2025-12-04,4 ways,11.0,F,No,Yes,Yes,No,No,CP-03/12-25/018,Positive,8034483,CP03_Mulilima
+19,December,2025-12-04,Filebo,4.0,F,No,Yes,Yes,No,No,CP-03/12-25/019,Positive,8034484,CP03_Mulilima
+20,December,2025-12-04,Filebo,28.0,F,No,Yes,Yes,No,No,CP-03/12-25/020,Positive,8034500,CP03_Mulilima
+21,December,2025-12-04,Chawama,20.0,F,No,Yes,Yes,No,No,CP-03/12-25/021,Positive,8034501,CP03_Mulilima
+22,December,2025-12-06,Luombwa,13.0,M,No,Yes,Yes,No,No,CP-03/12-25/022,Positive,8034502,CP03_Mulilima
+23,December,2025-12-06,Luombwa,12.0,M,No,Yes,Yes,No,No,CP-03/12-25/023,Positive,8034503,CP03_Mulilima
+24,December,2025-12-06,chawama,21.0,M,No,Yes,Yes,No,No,CP-03/12-25/024,Positive,8034504,CP03_Mulilima
+25,December,2025-12-06,Ridge 3,4.0,M,No,Yes,Yes,No,No,CP-03/12-25/025,Positive,8034505,CP03_Mulilima
+26,December,2025-12-06,Ridge 1,17.0,M,No,Yes,Yes,No,No,CP-03/12-25/026,Positive,8034506,CP03_Mulilima
+27,December,2025-12-06,Miseya,1.0,F,No,Yes,Yes,No,No,CP-03/12-25/027,Positive,8034507,CP03_Mulilima
+28,December,2025-12-06,Chawama,20.0,M,No,Yes,Yes,No,No,CP-03/12-25/028,Positive,8034508,CP03_Mulilima
+29,December,2025-12-08,Filebo,8.0,M,No,Yes,Yes,No,No,CP-03/12-25/029,Positive,8034509,CP03_Mulilima
+30,December,2025-12-08,R/6,26.0,M,No,Yes,Yes,No,No,CP-03/12-25/030,Positive,8034510,CP03_Mulilima
+31,December,2025-12-08,Kalila,3.0,M,No,Yes,Yes,No,No,CP-03/12-25/031,Positive,8034511,CP03_Mulilima
+32,December,2025-12-08,Filebo,16.0,F,No,Yes,Yes,No,No,CP-03/12-25/032,Positive,8034512,CP03_Mulilima
+33,December,2025-12-08,Chisae,29.0,M,No,Yes,Yes,No,No,CP-03/12-25/033,Positive,8034513,CP03_Mulilima
+34,December,2025-12-08,Ridge 7,13.0,M,No,Yes,Yes,No,No,CP-03/12-25/034,Positive,8034514,CP03_Mulilima
+35,December,2025-12-08,Mulilima,13.0,M,No,Yes,Yes,No,No,CP-03/12-25/035,Positive,8034515,CP03_Mulilima
+36,December,2025-12-08,Mulilima,18.0,M,No,Yes,Yes,No,No,CP-03/12-25/036,Positive,8034516,CP03_Mulilima
+37,December,2025-12-08,Ndala,6.0,M,No,Yes,Yes,No,No,CP-03/12-25/037,Positive,8034517,CP03_Mulilima
+38,December,2025-12-08,Kamambale,70.0,M,No,Yes,Yes,No,No,CP-03/12-25/038,Positive,8034518,CP03_Mulilima
+39,December,2025-12-08,Ridge 4,8.0,M,No,Yes,Yes,No,No,CP-03/12-25/039,Positive,8034519,CP03_Mulilima
+40,December,2025-12-08,Ridge 8,11.0,M,No,Yes,Yes,No,No,CP-03/12-25/040,Positive,8034520,CP03_Mulilima
+41,December,2025-12-09,Kamalamba,5.0,F,No,Yes,Yes,No,No,CP-03/12-25/041,Positive,8034521,CP03_Mulilima
+42,December,2025-12-09,Mulilima,13.0,F,No,Yes,Yes,No,No,CP-03/12-25/042,Positive,8034522,CP03_Mulilima
+43,December,2025-12-09,Luombwa,40.0,M,No,Yes,Yes,No,No,CP-03/12-25/043,Positive,8034523,CP03_Mulilima
+44,December,2025-12-09,Kapenda,2.0,M,No,Yes,Yes,No,No,CP-03/12-25/044,Positive,8034524,CP03_Mulilima
+45,December,2025-12-09,Mimbulu,5.0,F,No,Yes,Yes,No,No,CP-03/12-25/045,Positive,8034525,CP03_Mulilima
+46,December,2025-12-09,chobae,25.0,M,No,Yes,Yes,No,No,CP-03/12-25/046,Positive,8034526,CP03_Mulilima
+47,December,2025-12-09,Kapenda,5.0,M,No,Yes,Yes,No,No,CP-03/12-25/047,Positive,8034527,CP03_Mulilima
+48,December,2025-12-09,Ridge 4,6.0,M,No,Yes,Yes,No,No,CP-03/12-25/048,Positive,8034528,CP03_Mulilima
+49,December,2025-12-09,Ridge 4,18.0,F,No,Yes,Yes,No,No,CP-03/12-25/049,Positive,8034529,CP03_Mulilima
+50,December,2025-12-09,Miseya,12.0,M,No,Yes,Yes,No,No,CP-03/12-25/050,Positive,8034530,CP03_Mulilima
+1,October,2025-10-02,Kazomba,21.0,M,Yes,Yes,Yes,nan,No,NWP-11/10-25/001,Positive,8034734,NWP11_Kazomba
+2,October,2025-10-02,Kazomba,18.0,M,No,Yes,Yes,nan,No,NWP-11/10-25/002,Positive,8034735,NWP11_Kazomba
+3,October,2025-10-06,Kazomba,16.0,F,Yes,Yes,Yes,nan,No,NWP-11/10-25/003,Positive,8034736,NWP11_Kazomba
+4,October,2025-10-06,Kimpwena,1.0,M,Yes,Yes,Yes,nan,Kayonge,NWP-11/10-25/004,Positive,8034737,NWP11_Kazomba
+5,October,2025-10-06,Kimpwena,18.0,F,No,Yes,Yes,nan,No,NWP-11/10-25/005,Positive,8034738,NWP11_Kazomba
+6,October,2025-10-07,Kazomba,11.0,M,Yes,Yes,Yes,nan,No,NWP-11/10-25/006,Positive,8034739,NWP11_Kazomba
+7,October,2025-10-07,Kazomba,15.0,F,No,Yes,Yes,nan,No,NWP-11/10-25/007,Positive,8034740,NWP11_Kazomba
+8,October,2025-10-08,Kyawangu,11.0,M,No,Yes,Yes,nan,Mutnada,NWP-11/10-25/008,Positive,8034741,NWP11_Kazomba
+9,October,2025-10-09,Kimpwena,13.0,M,No,Yes,Yes,nan,No,NWP-11/10-25/009,Positive,8034742,NWP11_Kazomba
+10,October,2025-10-09,Wisdom,18.0,F,No,Yes,Yes,nan,No,NWP-11/10-25/010,Positive,8034743,NWP11_Kazomba
+11,October,2025-10-23,Wisdom,2.0,F,No,Yes,Yes,nan,No,NWP-11/10-25/011,Positive,8034744,NWP11_Kazomba
+12,October,2025-10-23,Wisdom,38.0,M,No,Yes,Yes,nan,No,NWP-11/10-25/012,Positive,8034745,NWP11_Kazomba
+13,October,2025-10-23,Kazomba,17.0,M,No,Yes,Yes,nan,Manyana,NWP-11/10-25/013,Positive,8034746,NWP11_Kazomba
+1,December,2025-12-04,Kazomba,22.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/001,Positive,8034747,NWP11_Kazomba
+2,December,2025-12-04,Kapepa,3.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/002,Positive,8034748,NWP11_Kazomba
+3,December,2025-12-04,Kapepa,5.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/003,Positive,8034749,NWP11_Kazomba
+4,December,2025-12-04,Kimpwena,25.0,F,No,Yes,Yes,nan,Munyama,NWP-11/12-25/004,Positive,8033501,NWP11_Kazomba
+5,December,2025-12-04,Kimpwena,14.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/005,Positive,8033502,NWP11_Kazomba
+6,December,2025-12-15,Kazomba,24.0,F,No,Yes,Yes,nan,Kyampemba,NWP-11/12-25/006,Positive,8033503,NWP11_Kazomba
+7,December,2025-12-15,Kimpwena,17.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/007,Positive,8033504,NWP11_Kazomba
+8,December,2025-12-15,Kawama B,18.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/008,Positive,8033505,NWP11_Kazomba
+9,December,2025-12-15,Kazomba,24.0,M,No,Yes,Yes,nan,Chingola,NWP-11/12-25/009,Positive,8033506,NWP11_Kazomba
+10,December,2025-12-15,Kimpwena,9.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/010,Positive,8033507,NWP11_Kazomba
+11,December,2025-12-17,Wisdom,5.0,M,Yes,Yes,Yes,nan,nan,NWP-11/12-25/011,Positive,8033508,NWP11_Kazomba
+12,December,2025-12-17,Kimpwena,1.0,M,Yes,Yes,Yes,nan,nan,NWP-11/12-25/012,Positive,8033509,NWP11_Kazomba
+13,December,2025-12-17,Kazomba,3.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/013,Positive,8033510,NWP11_Kazomba
+14,December,2025-12-17,Kimpwena,60.0,F,Yes,Yes,Yes,nan,nan,NWP-11/12-25/014,Positive,8033511,NWP11_Kazomba
+15,December,2025-12-17,Kazomba,16.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/015,Positive,8033512,NWP11_Kazomba
+16,December,2025-12-18,Kazomba,17.0,M,No,Yes,Yes,nan,nan,NWP-11/12-25/016,Positive,8033513,NWP11_Kazomba
+17,December,2025-12-18,Kazomba,20.0,M,No,Yes,Yes,Yes,nan,NWP-11/12-25/017,Positive,8033514,NWP11_Kazomba
+18,December,2025-12-18,Chimpena,10.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/018,Positive,8033515,NWP11_Kazomba
+19,December,2025-12-18,Kupena,12.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/019,Positive,8033516,NWP11_Kazomba
+20,December,2025-12-18,Kawama B,9.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/020,Positive,8033517,NWP11_Kazomba
+21,December,2025-12-18,Kimpwena,20.0,M,No,Yes,Yes,nan,nan,NWP-11/12-25/021,Positive,8033518,NWP11_Kazomba
+22,December,2025-12-18,Kazomba,10.0,M,Yes,Yes,Yes,nan,nan,NWP-11/12-25/022,Positive,8033519,NWP11_Kazomba
+23,December,2025-12-18,Kazomba,7.0,M,No,Yes,Yes,nan,nan,NWP-11/12-25/023,Positive,8033520,NWP11_Kazomba
+24,December,2025-12-18,Messenger,55.0,M,No,Yes,Yes,Mbonge,nan,NWP-11/12-25/024,Positive,8033521,NWP11_Kazomba
+25,December,2025-12-19,Kimpwena,9.0,F,No,Yes,Yes,nan,nan,NWP-11/12-25/025,Positive,8033522,NWP11_Kazomba
+26,December,2025-12-19,Kawama B,3.0,F,Yes,Yes,Yes,Mushindamo,nan,NWP-11/12-25/026,Positive,8033523,NWP11_Kazomba
+1,August,2025-08-22,Kakishi,44.0,M,Yes,Yes,Yes,Yes,Yes,CP-04/08-25/001,Positive,8034639,CP04_Chalata
+2,August,2025-08-23,Matuku,22.0,M,nan,Yes,Yes,nan,Yes,CP-04/08-25/002,Positive,8034640,CP04_Chalata
+3,August,2025-08-25,Mukuka,8.0,F,Yes,Yes,Yes,nan,nan,CP-04/08-25/003,Positive,8034641,CP04_Chalata
+4,October,2025-10-16,Mukuka,7.0,F,Yes,Yes,Yes,nan,nan,CP-04/10-25/001,Positive,8034642,CP04_Chalata
+5,October,2025-10-22,Fipala,12.0,F,nan,Yes,Yes,nan,nan,CP-04/10-25/002,Positive,8034643,CP04_Chalata
+6,October,2025-10-22,Matuku,13.0,M,Yes,Yes,Yes,nan,nan,CP-04/10-25/003,Positive,8034644,CP04_Chalata
+7,October,2025-10-30,Fipala,11.0,F,Yes,Yes,Yes,nan,nan,CP-04/10-25/004,Positive,8034645,CP04_Chalata
+8,October,2025-10-30,Matuku,14.0,M,Yes,Yes,Yes,nan,nan,CP-04/10-25/005,Positive,8034646,CP04_Chalata
+9,October,2025-10-30,Fipala,13.0,F,Yes,Yes,Yes,nan,nan,CP-04/10-25/006,Positive,8034647,CP04_Chalata
+10,November,2025-11-04,Fipala,2.0,M,Yes,Yes,Yes,nan,nan,CP-04/11-25/001,Positive,8034648,CP04_Chalata
+11,November,2025-11-04,Malali,3.0,F,Yes,Yes,Yes,nan,nan,CP-04/11-25/002,Positive,8034649,CP04_Chalata
+12,November,2025-11-04,Soweto,18.0,M,Yes,Yes,Yes,nan,nan,CP-04/11-25/003,Positive,8034650,CP04_Chalata
+13,November,2025-11-04,Chalata,15.0,M,Yes,Yes,Yes,nan,nan,CP-04/11-25/004,Positive,8034651,CP04_Chalata
+14,November,2025-11-04,Chalata,15.0,M,Yes,Yes,Yes,nan,nan,CP-04/11-25/005,Positive,8034652,CP04_Chalata
+1,August,2025-08-29,Liko,2.0,M,Yes,Yes,Yes,Yes,Yes,WP-07/08-25/001,Positive,8034573,WP07_Shang'ombo
+2,August,2025-08-29,Nete,0.5,F,Yes,Yes,Yes,No,No,WP-07/08-25/002,Positive,8034574,WP07_Shang'ombo
+3,September,2025-09-01,Shalitala,0.75,M,Yes,Yes,Yes,No,No,WP-07/09-25/001,Positive,8034575,WP07_Shang'ombo
+4,September,2025-09-03,Liyuwa yuwa,14.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/002,Positive,8034576,WP07_Shang'ombo
+5,September,2025-09-03,Liyuwa yuwa,22.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/003,Positive,8034577,WP07_Shang'ombo
+6,September,2025-09-03,Liyuwa yuwa,15.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/004,Positive,8034578,WP07_Shang'ombo
+7,September,2025-09-03,Liyuwa yuwa,10.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/005,Positive,8034579,WP07_Shang'ombo
+8,September,2025-09-03,Liko,9.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/006,Positive,8034580,WP07_Shang'ombo
+9,September,2025-09-04,Liko,4.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/007,Positive,,WP07_Shang'ombo
+10,September,2025-09-04,Malala,6.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/008,Positive,8034581,WP07_Shang'ombo
+11,September,2025-09-04,Shalileke,14.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/009,Positive,8034582,WP07_Shang'ombo
+12,September,2025-09-05,Liko,10.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/010,Positive,8034583,WP07_Shang'ombo
+13,September,2025-09-08,Malala,2.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/011,Positive,8034584,WP07_Shang'ombo
+14,September,2025-09-08,Liko,3.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/012,Positive,8034585,WP07_Shang'ombo
+15,September,2025-09-08,Sobe,11.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/013,Positive,8034586,WP07_Shang'ombo
+16,September,2025-09-08,Rivungo,5.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/014,Positive,8034587,WP07_Shang'ombo
+17,September,2025-09-09,Sobe,16.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/015,Positive,8034588,WP07_Shang'ombo
+18,September,2025-09-09,Kapengela,12.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/016,Positive,8034589,WP07_Shang'ombo
+19,September,2025-09-09,Malala,10.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/017,Positive,8034590,WP07_Shang'ombo
+20,September,2025-09-10,Malala,7.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/018,Positive,8034591,WP07_Shang'ombo
+21,September,2025-09-11,Shaluleke,17.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/019,Positive,8034592,WP07_Shang'ombo
+22,September,2025-09-15,Sobe,18.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/020,Positive,8034593,WP07_Shang'ombo
+23,September,2025-09-15,Malala,10.0,F,Yes,Yes,Yes,No,No,WP-07/09-25.021,Positive,8034594,WP07_Shang'ombo
+24,September,2025-09-15,Lilonda,17.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/022,Positive,8034595,WP07_Shang'ombo
+25,September,2025-09-15,Lilonda,16.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/023,Positive,8034596,WP07_Shang'ombo
+26,September,2025-09-16,Shaluleke,16.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/024,Positive,8034597,WP07_Shang'ombo
+27,September,2025-09-16,Kapengela,1.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/025,Positive,8034598,WP07_Shang'ombo
+28,September,2025-09-16,Sobe,16.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/026,Positive,8034599,WP07_Shang'ombo
+29,September,2025-09-16,Kapengela,16.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/027,Positive,8034600,WP07_Shang'ombo
+30,September,2025-09-17,Liyuwa yuwa,2.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/028,Positive,8034601,WP07_Shang'ombo
+31,September,2025-09-18,Ngunye,21.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/029,Positive,8034602,WP07_Shang'ombo
+32,September,2025-09-18,Nete,5.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/030,Positive,8034603,WP07_Shang'ombo
+33,September,2025-09-18,Shalitata,14.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/031,Positive,8034604,WP07_Shang'ombo
+34,September,2025-09-22,Make,15.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/032,Positive,8034605,WP07_Shang'ombo
+35,September,2025-09-22,Sobe,16.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/033,Positive,8034606,WP07_Shang'ombo
+36,September,2025-09-22,Sobe,10.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/034,Positive,8034607,WP07_Shang'ombo
+37,September,2025-09-23,Lueti,1.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/035,Positive,8034608,WP07_Shang'ombo
+38,September,2025-09-23,Nete,1.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/036,Positive,8034609,WP07_Shang'ombo
+39,September,2025-09-25,Make,1.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/037,Positive,8034610,WP07_Shang'ombo
+40,September,2025-09-25,Liyuwa yuwa,3.0,M,Yes,Yes,Yes,No,No,WP-07/09-25/038,Positive,8034611,WP07_Shang'ombo
+41,September,2025-09-26,Sobe,11.0,F,Yes,Yes,Yes,No,No,WP-07/09-25/039,Positive,8034612,WP07_Shang'ombo
+42,November,2025-11-12,Sobe,,F,Yes,Yes,Yes,No,No,WP-07/11-25/001,Positive,8034613,WP07_Shang'ombo
+43,November,2025-11-12,Kapengela,7.0,M,Yes,Yes,Yes,No,No,WP-07/11-25/002,Positive,8034614,WP07_Shang'ombo
+44,November,2025-11-14,Lilola,27.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/003,Positive,8034615,WP07_Shang'ombo
+45,November,2025-11-14,Make,29.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/004,Positive,8034616,WP07_Shang'ombo
+46,November,2025-11-17,Malala,10.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/005,Positive,8034617,WP07_Shang'ombo
+47,November,2025-11-18,Liyuwa yuwa,9.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/006,Positive,8034618,WP07_Shang'ombo
+48,November,2025-11-18,Ngunye,15.0,M,Yes,Yes,Yes,No,No,WP-07/11-25/007,Positive,8034619,WP07_Shang'ombo
+49,November,2025-11-19,Likwangala,46.0,M,Yes,Yes,Yes,No,No,WP-07/11-25/008,Positive,8034620,WP07_Shang'ombo
+50,November,2025-11-20,Ngunye,29.0,M,Yes,Yes,Yes,No,No,WP-07/11-25/009,Positive,8034621,WP07_Shang'ombo
+51,November,2025-11-20,Malala,3.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/010,Positive,8034622,WP07_Shang'ombo
+52,November,2025-11-20,Ngunye,9.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/011,Positive,8034623,WP07_Shang'ombo
+53,November,2025-11-29,Kapengela,42.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/012,Positive,8034624,WP07_Shang'ombo
+54,November,2025-11-29,Liyuwa yuwa,19.0,F,Yes,Yes,Yes,No,No,WP-07/11-25/013,Positive,8034625,WP07_Shang'ombo
+55,December,2025-12-01,Liyuwa yuwa,28.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/001,Positive,8034626,WP07_Shang'ombo
+56,December,2025-12-01,Mboiwa,4.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/002,Positive,8034627,WP07_Shang'ombo
+57,December,2025-12-01,Kapengela,5.0,F,Yes,Yes,Yes,No,No,WP-07/12-25/003,Positive,8034628,WP07_Shang'ombo
+58,December,2025-12-01,Kapengela,12.0,F,Yes,Yes,Yes,No,No,WP-07/12-25/004,Positive,8034629,WP07_Shang'ombo
+59,December,2025-12-01,Kapengela,6.0,F,Yes,Yes,Yes,No,No,WP-07/12-25/005,Positive,8034630,WP07_Shang'ombo
+60,December,2025-12-01,Musa,12.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/006,Positive,8034631,WP07_Shang'ombo
+61,December,2025-12-02,Sobe,9.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/007,Positive,8034632,WP07_Shang'ombo
+62,December,2025-12-09,Kapengela,15.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/008,Positive,8034633,WP07_Shang'ombo
+63,December,2025-12-09,Sobe,3.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/009,Positive,8034634,WP07_Shang'ombo
+64,December,2025-12-09,Kambongo,7.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/010,Positive,8034635,WP07_Shang'ombo
+65,December,2025-12-09,Liguago,16.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/011,Positive,8034636,WP07_Shang'ombo
+66,December,2025-12-09,Liguago,17.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/012,Positive,8034637,WP07_Shang'ombo
+67,December,2025-12-09,Lilola,63.0,M,Yes,Yes,Yes,No,No,WP-07/12-25/013,Positive,8034638,WP07_Shang'ombo
+1,September,2025-09-01,#5,10.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/001,Positive,8034295,WP10_Nkeyema
+2,September,2025-09-01,N/Plain,17.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/002,Positive,8034296,WP10_Nkeyema
+3,September,2025-09-04,Kanemuna,16.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/003,Positive,8034297,WP10_Nkeyema
+4,September,2025-09-04,Kabilulwe,2.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/004,Positive,8034298,WP10_Nkeyema
+5,September,2025-09-04,Nalikwanda,25.0,F,Yes,Yes,Yes,Yes,Yes,WP-10/09-25/005,Positive,8034299,WP10_Nkeyema
+6,September,2025-09-04,Kabilulwe,29.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/006,Positive,8034300,WP10_Nkeyema
+7,September,2025-09-04,Kamanya,18.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/007,Positive,8034301,WP10_Nkeyema
+8,September,2025-09-04,Kabilulwe,15.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/008,Positive,8034302,WP10_Nkeyema
+9,September,2025-09-05,Kamakokwa,7.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/009,Positive,8034303,WP10_Nkeyema
+10,September,2025-09-05,Nalikwanda,20.0,F,No,Yes,Yes,No,No,WP-10/09-25/010,Positive,8034304,WP10_Nkeyema
+11,September,2025-09-07,#5,14.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/011,Positive,8034305,WP10_Nkeyema
+12,September,2025-09-08,Kanemuna,15.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/012,Positive,8034306,WP10_Nkeyema
+13,September,2025-09-08,Kanemuna,9.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/013,Positive,8034307,WP10_Nkeyema
+14,September,2025-09-08,#5,31.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/014,Positive,8034308,WP10_Nkeyema
+15,September,2025-09-08,Kalale,7.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/015,Positive,8034309,WP10_Nkeyema
+16,September,2025-09-10,Nalikwanda,20.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/016,Positive,8034310,WP10_Nkeyema
+17,September,2025-09-11,No. 3,8.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/017,Positive,8034311,WP10_Nkeyema
+18,September,2025-09-11,#5,2.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/018,Positive,8034312,WP10_Nkeyema
+19,September,2025-09-16,Kalale,4.0,F,Yes,Yes,Yes,No,No,WP-10/09-25/019,Positive,8034313,WP10_Nkeyema
+20,September,2025-09-18,Kamakokwa,9.0,M,Yes,Yes,Yes,No,No,WP-10/09-25/020,Positive,8034314,WP10_Nkeyema
+21,September,2025-09-19,#1,4.0,,Yes,Yes,Yes,No,No,WP-10/09-25/021,Positive,8034315,WP10_Nkeyema
+22,September,2025-09-19,#1,10.0,,Yes,Yes,Yes,No,No,WP-10/09-25/022,Positive,8034316,WP10_Nkeyema
+23,September,2025-09-19,#12,21.0,,Yes,Yes,Yes,No,No,WP-10/09-25/023,Positive,8034317,WP10_Nkeyema
+24,September,2025-09-19,#13,25.0,,Yes,Yes,Yes,No,No,WP-10/09-25/024,Positive,8034318,WP10_Nkeyema
+25,September,2025-09-22,Mukwemba,10.0,,Yes,Yes,Yes,No,No,WP-10/09-25/025,Positive,8034319,WP10_Nkeyema
+26,September,2025-09-22,#16,,,Yes,Yes,Yes,No,No,WP-10/09-25/026,Positive,8034320,WP10_Nkeyema
+27,September,2025-09-22,Kamanya,11.0,,Yes,Yes,Yes,No,No,WP-10/09-25/027,Positive,8034321,WP10_Nkeyema
+28,September,2025-09-24,Kalale,15.0,,Yes,Yes,Yes,No,No,WP-10/09-25/028,Positive,8034322,WP10_Nkeyema
+29,September,2025-09-24,#1,32.0,,Yes,Yes,Yes,No,No,WP-10/09-25/029,Positive,8034323,WP10_Nkeyema
+30,September,2025-09-24,Kabilulwe,7.0,,Yes,Yes,Yes,No,No,WP-10/09-25/030,Positive,8034324,WP10_Nkeyema
+31,September,2025-09-25,Shambilamina,35.0,,Yes,Yes,Yes,No,No,WP-10/09-25/031,Positive,8034325,WP10_Nkeyema
+32,September,2025-09-30,#12,65.0,,Yes,Yes,Yes,No,No,WP-10/09-25/032,Positive,8034326,WP10_Nkeyema
+1,October,2025-10-01,Kahare,18.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/001,Positive,8034327,WP10_Nkeyema
+2,October,2025-10-01,Kamasisi,7.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/002,Positive,8034328,WP10_Nkeyema
+3,October,2025-10-01,Kamasisi,11.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/003,Positive,8034329,WP10_Nkeyema
+4,October,2025-10-02,#3,3.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/004,Positive,8034330,WP10_Nkeyema
+5,October,2025-10-02,Plain,3.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/005,Positive,8034331,WP10_Nkeyema
+6,October,2025-10-02,Kabilulwe,11.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/006,Positive,8034332,WP10_Nkeyema
+7,October,2025-10-03,Kabilulwe,37.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/007,Positive,8034333,WP10_Nkeyema
+8,October,2025-10-03,Kabilulwe,7.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/008,Positive,8034334,WP10_Nkeyema
+9,October,2025-10-06,Nalikwanda,7.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/009,Positive,8034335,WP10_Nkeyema
+10,October,2025-10-06,Nalikwanda,15.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/010,Positive,8034336,WP10_Nkeyema
+11,October,2025-10-10,Shambelanena,10.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/011,Positive,8034337,WP10_Nkeyema
+12,October,2025-10-10,#12,4.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/012,Positive,8034338,WP10_Nkeyema
+13,October,2025-10-14,Kamakokwa,68.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/013,Positive,8034339,WP10_Nkeyema
+14,October,2025-10-14,Kamanya,22.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/014,Positive,8034340,WP10_Nkeyema
+15,October,2025-10-15,Kabilulwe,21.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/015,Positive,8034341,WP10_Nkeyema
+16,October,2025-10-16,Kalale,8.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/016,Positive,8034342,WP10_Nkeyema
+17,October,2025-10-16,Gabon,5.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/017,Positive,8034343,WP10_Nkeyema
+18,October,2025-10-16,Shambelanena,10.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/018,Positive,8034344,WP10_Nkeyema
+19,October,2025-10-22,#6,13.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/019,Positive,8034345,WP10_Nkeyema
+20,October,2025-10-22,Kamuyoba,26.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/020,Positive,8034346,WP10_Nkeyema
+21,October,2025-10-22,Kamakokwa,14.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/021,Positive,8034347,WP10_Nkeyema
+22,October,2025-10-23,Kamanya,25.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/022,Positive,8034348,WP10_Nkeyema
+23,October,2025-10-23,Shambelanena,18.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/023,Positive,8034349,WP10_Nkeyema
+24,October,2025-10-23,Kamanya,30.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/024,Positive,8034350,WP10_Nkeyema
+25,October,2025-10-27,#11,17.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/025,Positive,8034351,WP10_Nkeyema
+26,October,2025-10-27,Timuna,14.0,M,Yes,Yes,Yes,No,No,WP-10/10-25/026,Positive,8034352,WP10_Nkeyema
+27,October,2025-10-27,Shambelanena,45.0,F,Yes,Yes,Yes,No,No,WP-10/10-25/027,Positive,8034353,WP10_Nkeyema
+1,November,2025-11-03,Kabiluwe,20.0,F,Yes,Yes,Yes,No,No,WP-10/11-25/001,Positive,,WP10_Nkeyema
+1,December,2025-12-26,No 6,29.0,F,Yes,Yes,Yes,nan,nan,WP-10/12-25/001,Positive,8034653,WP10_Nkeyema
+2,December,2025-12-26,Kamanya,26.0,F,Yes,Yes,Yes,nan,nan,WP-10/12-25/002,Positive,8034654,WP10_Nkeyema
+3,December,2025-12-26,Gabon,21.0,M,Yes,Yes,Yes,nan,nan,WP-10/12-25/003,Positive,8034655,WP10_Nkeyema
+4,December,2025-12-26,Kamanya,18.0,M,Yes,Yes,Yes,nan,nan,WP-10/12-25/004,Positive,8034656,WP10_Nkeyema
+5,December,2025-12-26,Gabon,21.0,M,Yes,Yes,Yes,nan,Yes,WP-10/12-25/005,Positive,8034657,WP10_Nkeyema
+6,December,2025-12-26,Kamanya,14.0,F,Yes,Yes,Yes,nan,Yes,WP-10/12-25/006,Positive,8034658,WP10_Nkeyema
+7,December,2025-12-26,Kamakowa,5.0,M,Yes,Yes,Yes,nan,nan,WP-10/12-25/007,Positive,8034659,WP10_Nkeyema
+8,December,2025-12-26,Kamakowa,32.0,F,No,Yes,Yes,nan,nan,WP-10/12-25/008,Positive,8034660,WP10_Nkeyema
+1,September,2025-09-01,Kalali,6.0,M,Yes,Yes,Yes,Yes,No,WP-03/09-25/001,Positive,8036544,WP03_Njoko_mrhc
+2,September,2025-09-01,Kalali,4.0,F,No,Yes,Yes,Yes,No,WP-03/09-25/002,Positive,8036545,WP03_Njoko_mrhc
+3,September,2025-09-02,Limonemo,21.0,F,Yes,Yes,Yes,No,No,WP-03/09-25/003,Positive,8036546,WP03_Njoko_mrhc
+4,September,2025-09-04,Kalombe,5.0,F,No,Yes,Yes,No,No,WP-03/09-25/004,Positive,8036547,WP03_Njoko_mrhc
+5,September,2025-09-04,Kalombe,18.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/005,Positive,8036548,WP03_Njoko_mrhc
+6,September,2025-09-05,Namolondu,5.0,F,Yes,Yes,Yes,No,No,WP-03/09-25/006,Positive,8036549,WP03_Njoko_mrhc
+7,September,2025-09-07,Nkusu,1.0,M,No,Yes,Yes,No,No,WP-03/09-25/007,Positive,8036550,WP03_Njoko_mrhc
+8,September,2025-09-08,Kalali,37.0,F,Yes,Yes,Yes,No,No,WP-03/09-25/008,Positive,8036551,WP03_Njoko_mrhc
+9,September,2025-09-08,Litongo,4.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/009,Positive,8036552,WP03_Njoko_mrhc
+10,September,2025-09-08,Litongo,44.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/010,Positive,8036553,WP03_Njoko_mrhc
+11,September,2025-09-08,Litongo,42.0,F,No,Yes,Yes,No,No,WP-03/09-25/011,Positive,8036554,WP03_Njoko_mrhc
+12,September,2025-09-08,Litongo,22.0,F,No,Yes,Yes,No,No,WP-03/09-25/012,Positive,8036555,WP03_Njoko_mrhc
+13,September,2025-09-09,Munyati,19.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/013,Positive,8036556,WP03_Njoko_mrhc
+14,September,2025-09-12,Litongo,19.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/014,Positive,8036557,WP03_Njoko_mrhc
+15,September,2025-09-18,Kaseta,17.0,F,Yes,No,Yes,No,No,WP-03/09-25/015,Positive,8036558,WP03_Njoko_mrhc
+16,September,2025-09-19,Kabula,17.0,F,No,No,Yes,No,No,WP-03/09-25/016,Positive,8036559,WP03_Njoko_mrhc
+17,September,2025-09-22,Njoko primary sch,13.0,M,Yes,Yes,Yes,No,No,WP-03/09-25/017,Positive,8036560,WP03_Njoko_mrhc
+1,November,2025-11-13,Kashwati,6.0,M,Yes,Yes,Yes,nan,nan,WP-03/11-25/001,Positive,8034531,WP03_Njoko_mrhc
+2,November,2025-11-13,Kashwati,4.0,M,Yes,Yes,Yes,nan,nan,WP-03/11-25/002,Positive,8034532,WP03_Njoko_mrhc
+3,November,2025-11-26,Kanzauli,18.0,M,Yes,Yes,Yes,nan,nan,WP-03/11-25/003,Positive,8034533,WP03_Njoko_mrhc
+4,November,2025-11-26,Kanzauli,16.0,F,Yes,Yes,Yes,nan,nan,WP-03/11-25/004,Positive,8034534,WP03_Njoko_mrhc
+5,November,2025-11-26,Lyomboko,14.0,F,Yes,Yes,Yes,nan,nan,WP-03/11-25/005,Positive,8034535,WP03_Njoko_mrhc
+6,November,2025-11-26,Lyomboko,16.0,M,Yes,Yes,Yes,nan,nan,WP-03/11-25/006,Positive,8034536,WP03_Njoko_mrhc
+7,November,2025-11-27,Kanzauli,12.0,F,Yes,Yes,Yes,nan,nan,WP-03/11-25/007,Positive,8034537,WP03_Njoko_mrhc
+1,December,2025-12-01,Sitongo,12.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/001,Positive,8034538,WP03_Njoko_mrhc
+2,December,2025-12-04,Kaseta,59.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/002,Positive,8034539,WP03_Njoko_mrhc
+3,December,2025-12-04,Kaseta,15.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/003,Positive,8034540,WP03_Njoko_mrhc
+4,December,2025-12-04,Sabelo,17.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/004,Positive,8034541,WP03_Njoko_mrhc
+5,December,2025-12-04,Nlamuhemelo,21.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/006,Positive,8034542,WP03_Njoko_mrhc
+6,December,2025-12-04,Mesheko,15.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/005,Positive,8034543,WP03_Njoko_mrhc
+7,December,2025-12-05,Kalali,4.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/007,Positive,8034544,WP03_Njoko_mrhc
+8,December,2025-12-05,Kalali,11.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/008,Positive,8034545,WP03_Njoko_mrhc
+9,December,2025-12-05,Kalali,6.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/009,Positive,8034546,WP03_Njoko_mrhc
+10,December,2025-12-11,Nlamuhemelo,15.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/010,Positive,8034547,WP03_Njoko_mrhc
+11,December,2025-12-11,Njoko Sililo,11.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/011,Positive,,WP03_Njoko_mrhc
+12,December,2025-12-12,Melo,15.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/012,Positive,8034548,WP03_Njoko_mrhc
+13,December,2025-12-13,Kalombe,5.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/013,Positive,,WP03_Njoko_mrhc
+14,December,2025-12-13,Kalombe,5.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/014,Positive,8034549,WP03_Njoko_mrhc
+15,December,2025-12-13,Nesteko,3.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/015,Positive,8034550,WP03_Njoko_mrhc
+16,December,2025-12-15,Litongi,15.0,F,Yes,Yes,Yes,nan,nan,WP-03/12-25/016,Positive,8034551,WP03_Njoko_mrhc
+17,December,2025-12-15,Nesteko,18.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/017,Positive,8034552,WP03_Njoko_mrhc
+18,December,2025-12-15,Kabula,21.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/018,Positive,8034553,WP03_Njoko_mrhc
+19,December,2025-12-15,Lupyelo,41.0,M,Yes,Yes,Yes,nan,nan,WP-03/12-25/019,Positive,8034554,WP03_Njoko_mrhc
+1,September,2025-09-09,A,3.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/001,Negative,8034354,WP05_Sikongo
+2,September,2025-09-10,Shansonga,6.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/002,Positive,8034355,WP05_Sikongo
+3,September,2025-09-10,Malondo,8.0,F,Yes,nan,Yes,No,No,WP-05/09-25/003,Positive,8034356,WP05_Sikongo
+4,September,2025-09-11,Sikongo ,22.0,F,Yes,nan,Yes,No,No,WP-05/09-25/004,Positive,8034357,WP05_Sikongo
+5,September,2025-09-11,Miya,7.0,M,Yes,nan,Yes,No,No,WP-05/09-25/005,Positive,8034358,WP05_Sikongo
+6,September,2025-09-15,Nepe,1.0,M,Yes,nan,Yes,No,No,WP-05/09-25/006,Positive,8034359,WP05_Sikongo
+7,September,2025-09-15,Mukoya,1.0,M,No,nan,Yes,Yes,No,WP-05/09-25/007,Positive,8034360,WP05_Sikongo
+8,September,2025-09-15,Sikongo,14.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/008,Negative,8034361,WP05_Sikongo
+9,September,2025-09-15,Mulangi,38.0,F,Yes,nan,Yes,No,No,WP-05/09-25/009,Positive,8034362,WP05_Sikongo
+10,September,2025-09-15,Malondo,12.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/010,Positive,8034363,WP05_Sikongo
+11,September,2025-09-17,Mulangi,5.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/011,Positive,8034364,WP05_Sikongo
+12,September,2025-09-17,Sikongo,21.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/012,Positive,8034365,WP05_Sikongo
+13,September,2025-09-17,Nalyamba,16.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/013,Positive,8034366,WP05_Sikongo
+14,September,2025-09-17,Sikongo,7.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/014,Positive,8034367,WP05_Sikongo
+15,September,2025-09-17,Mulangi,7.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/015,Positive,8034368,WP05_Sikongo
+16,September,2025-09-22,Kalengu,4.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/016,Positive,8034369,WP05_Sikongo
+17,September,2025-09-22,Lydsimu,10.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/017,Positive,8034370,WP05_Sikongo
+18,September,2025-09-22,Ngombe,19.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/018,Positive,8034371,WP05_Sikongo
+19,September,2025-09-22,Lydsimu,10.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/019,Positive,8034372,WP05_Sikongo
+20,September,2025-09-22,Suhwawa,27.0,F,No,nan,Yes,Yes,No,WP-05/09-25/020,Positive,8034373,WP05_Sikongo
+21,September,2025-09-25,Yellow House,2.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/021,Positive,8034374,WP05_Sikongo
+22,September,2025-09-25,Malondo,14.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/022,Positive,8034375,WP05_Sikongo
+23,September,2025-09-25,Likala,16.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/023,Positive,8034376,WP05_Sikongo
+24,September,2025-09-25,Sikongo Boarding,15.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/024,Positive,8034377,WP05_Sikongo
+25,September,2025-09-25,Luhole,4.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/025,Positive,8034378,WP05_Sikongo
+26,September,2025-09-25,Malondo,10.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/026,Positive,8034379,WP05_Sikongo
+27,September,2025-09-25,Liyundelo,3.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/027,Positive,8034380,WP05_Sikongo
+28,September,2025-09-25,Market,30.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/028,Positive,8034381,WP05_Sikongo
+29,September,2025-09-25,Butokota,20.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/029,Positive,8034382,WP05_Sikongo
+30,September,2025-09-25,Butokota,1.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/030,Positive,8034383,WP05_Sikongo
+31,September,2025-09-29,Mabumbu,14.0,F,Yes,nan,Yes,Yes,No,WP-05/09-25/031,Positive,8034384,WP05_Sikongo
+32,September,2025-09-30,Mwetuta,10.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/032,Positive,8034385,WP05_Sikongo
+33,September,2025-09-30,Havanza,4.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/033,Positive,8034386,WP05_Sikongo
+34,September,2025-09-30,Havanza,6.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/034,Positive,8034387,WP05_Sikongo
+35,September,2025-09-30,Luhole,7.0,M,Yes,nan,Yes,Yes,No,WP-05/09-25/035,Positive,8034388,WP05_Sikongo
+1,October,2025-10-02,Roma,10.0,M,Yes,nan,Yes,Yes,No,WP-05/10-25/001,Positive,8034389,WP05_Sikongo
+2,October,2025-10-02,Market,14.0,M,Yes,nan,Yes,Yes,No,WP-05/10-25/002,Positive,8034390,WP05_Sikongo
+3,October,2025-10-07,Muzanga Bantu,17.0,F,Yes,nan,Yes,Yes,No,WP-05/10-25/003,Positive,8034391,WP05_Sikongo
+4,October,2025-10-07,Roma,19.0,F,Yes,nan,Yes,Yes,No,WP-05/10-25/004,Positive,8034392,WP05_Sikongo
+5,October,2025-10-07,Mwenshi,11.0,F,Yes,nan,Yes,Yes,No,WP-05/10-25/005,Positive,8034393,WP05_Sikongo
+1,November,2025-11-26,Siplocha,3.0,F,nan,nan,Yes,nan,nan,WP-05/11-25/001,Positive,8034555,WP05_Sikongo
+2,November,2025-11-26,Liko,24.0,F,nan,nan,Yes,Yes,nan,WP-05/11-25/002,Positive,8034556,WP05_Sikongo
+3,November,2025-11-26,Wewe,18.0,M,nan,nan,Yes,Yes,nan,WP-05/11-25/003,Positive,8034557,WP05_Sikongo
+4,November,2025-11-28,Malono,8.0,F,nan,nan,Yes,nan,nan,WP-05/11-25/004,Positive,8034558,WP05_Sikongo
+5,November,2025-11-28,Lilengo,14.0,F,nan,nan,Yes,nan,nan,WP-05/11-25/005,Positive,8034559,WP05_Sikongo
+6,December,2025-12-01,Siplocha,2.0,F,nan,nan,Yes,nan,nan,WP-05/12-25/006,Positive,8034560,WP05_Sikongo
+7,December,2025-12-01,Luhole,4.0,M,nan,nan,Yes,nan,nan,WP-05/12-25/007,Positive,8034561,WP05_Sikongo
+8,December,2025-12-01,Luhole,8.0,M,nan,nan,Yes,nan,nan,WP-05/12-25/008,Positive,8034562,WP05_Sikongo
+9,December,2025-12-01,Muzawa,17.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/009,Positive,8034563,WP05_Sikongo
+10,December,2025-12-01,Malonda,3.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/010,Positive,8034564,WP05_Sikongo
+11,December,2025-12-01,Luhole,68.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/011,Positive,8034565,WP05_Sikongo
+12,December,2025-12-01,Malowo,8.0,F,nan,nan,Yes,nan,nan,WP-05/12-25/012,Positive,,WP05_Sikongo
+13,December,2025-12-01,Mowa,1.0,M,nan,nan,Yes,nan,nan,WP-05/12-25/013,Positive,,WP05_Sikongo
+14,December,2025-12-03,Marla,11.0,M,nan,nan,Yes,nan,nan,WP-05/12-25/014,Positive,8034566,WP05_Sikongo
+15,December,2025-12-03,Maala,7.0,F,nan,nan,Yes,nan,nan,WP-05/12-25/015,Positive,8034567,WP05_Sikongo
+16,December,2025-12-03,Maala,4.0,M,nan,nan,Yes,nan,nan,WP-05/12-25/016,Positive,8034568,WP05_Sikongo
+17,December,2025-12-03,Likamba,14.0,F,nan,nan,Yes,nan,nan,WP-05/12-25/017,Positive,8034569,WP05_Sikongo
+18,December,2025-12-03,,16.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/018,Positive,8034570,WP05_Sikongo
+19,December,2025-12-03,Weya,4.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/019,Positive,8034571,WP05_Sikongo
+20,December,2025-12-03,CB Sikan,20.0,F,nan,nan,Yes,Yes,nan,WP-05/12-25/020,Positive,8034572,WP05_Sikongo
+1,September,2025-09-03,Kashitu,24.0,M,Yes,Yes,Yes,No,No,WP-04/09-25/001,Positive,8034226,WP04_Kalabo HC
+2,September,2025-09-03,Malelekwa,10.0,M,Yes,Yes,Yes,No,No,WP-04/09-25/002,Positive,8034227,WP04_Kalabo HC
+3,September,2025-09-04,Hillpack,33.0,F,Yes,Yes,Yes,No,No,WP-04/09-25/003,Positive,8034228,WP04_Kalabo HC
+4,September,2025-09-15,Namushakonde,22.0,M,Yes,Yes,Yes,No,No,WP-04/09-25/004,Positive,8034229,WP04_Kalabo HC
+5,September,2025-09-16,Malelekwa,13.0,M,Yes,No,Yes,No,No,WP-04/09-25/005,Positive,8034230,WP04_Kalabo HC
+6,September,2025-09-16,Malelekwa,2.0,F,Yes,No,Yes,No,No,WP-04/09-25/006,Positive,8034231,WP04_Kalabo HC
+7,September,2025-09-17,Hillpack,62.0,F,Yes,Yes,Yes,Yes,No,WP-04/09-25/007,Positive,8034232,WP04_Kalabo HC
+8,September,2025-09-17,Kalenga,6.0,M,Yes,No,Yes,No,No,WP-04/09-25/008,Negative,8034233,WP04_Kalabo HC
+9,September,2025-09-18,Sunset,14.0,F,Yes,No,Yes,No,No,WP-04/09-25/009,Positive,8034234,WP04_Kalabo HC
+10,September,2025-09-19,Sunga,13.0,M,Yes,No,Yes,No,No,WP-04/09-25/010,Positive,8034235,WP04_Kalabo HC
+11,September,2025-09-19,Kalabo High,11.0,F,Yes,No,Yes,No,No,WP-04/09-25/011,Positive,8034236,WP04_Kalabo HC
+12,September,2025-09-19,Hillpack,29.0,F,Yes,No,Yes,No,No,WP-04/09-25/012,Positive,8034237,WP04_Kalabo HC
+13,September,2025-09-19,Lunda Mbuyu,4.0,M,Yes,No,Yes,No,No,WP-04/09-25/013,Positive,8034238,WP04_Kalabo HC
+14,September,2025-09-21,Nalionwa,7.0,M,Yes,No,Yes,No,No,WP-04/09-25/014,Positive,8034239,WP04_Kalabo HC
+15,September,2025-09-21,Kashitu,6.0,F,Yes,No,Yes,No,No,WP-04/09-25/015,Positive,8034240,WP04_Kalabo HC
+16,September,2025-09-22,Muyumbana,9.0,F,Yes,No,Yes,Yes,No,WP-04/09-25/016,Positive,8034241,WP04_Kalabo HC
+17,September,2025-09-23,Lubosi,16.0,F,Yes,No,Yes,No,No,WP-04/09-25/017,Positive,8034242,WP04_Kalabo HC
+18,September,2025-09-24,Nengu,18.0,F,Yes,No,Yes,Yes,Yes,WP-04/09-25/018,Positive,8034243,WP04_Kalabo HC
+19,September,2025-09-24,lubosi,3.0,M,Yes,No,Yes,Yes,No,WP-04/09-25/019,Positive,8034244,WP04_Kalabo HC
+20,September,2025-09-25,Kashitu,15.0,M,Yes,No,Yes,No,No,WP-04/09-25/020,Positive,8034245,WP04_Kalabo HC
+21,September,2025-09-25,Kashitu,1.0,F,Yes,No,Yes,No,No,WP-04/09-25/021,Positive,8034246,WP04_Kalabo HC
+22,September,2025-09-25,River side,14.0,F,Yes,No,Yes,No,No,WP-04/09-25/022,Positive,8034247,WP04_Kalabo HC
+23,September,2025-09-25,Simbwala,4.0,F,Yes,No,Yes,Yes,No,WP-04/09-25/023,Positive,8034248,WP04_Kalabo HC
+24,September,2025-09-26,Kashitu,2.0,M,Yes,No,Yes,No,No,WP-04/09-25/024,Positive,8034249,WP04_Kalabo HC
+25,September,2025-09-27,Nalionwa,24.0,M,Yes,No,Yes,No,Yes,WP-04/09-25/025,Positive,8034250,WP04_Kalabo HC
+26,September,2025-09-27,Mulaba,30.0,M,Yes,No,Yes,No,No,WP-04/09-25/026,Positive,8034251,WP04_Kalabo HC
+27,September,2025-09-28,Muchatanga,4.0,M,Yes,No,Yes,No,No,WP-04/09-25/027,Positive,8034252,WP04_Kalabo HC
+28,September,2025-09-28,Kashitu,12.0,M,Yes,No,Yes,No,No,WP-04/09-25/028,Positive,8034253,WP04_Kalabo HC
+29,September,2025-09-28,Nalionwa,6.0,F,Yes,No,Yes,No,No,WP-04/09-25/029,Positive,8034254,WP04_Kalabo HC
+30,September,2025-09-29,Nalionwa,22.0,F,Yes,No,Yes,No,No,WP-04/09-25/030,Positive,8034255,WP04_Kalabo HC
+31,September,2025-09-29,Mbonde,17.0,M,Yes,No,Yes,No,No,WP-04/09-25/031,Positive,8034256,WP04_Kalabo HC
+32,September,2025-09-29,Teta,8.0,M,Yes,No,Yes,No,No,WP-04/09-25/032,Positive,8034257,WP04_Kalabo HC
+1,October,2025-10-01,Suunga,12.0,F,Yes,No,Yes,No,No,WP-04/10-25/001,Positive,8034258,WP04_Kalabo HC
+2,October,2025-10-01,Northpark,16.0,F,Yes,No,Yes,No,No,WP-04/10-25/002,Positive,8034259,WP04_Kalabo HC
+3,October,2025-10-01,Mulandula,17.0,M,Yes,No,Yes,No,No,WP-04/10-25/003,Positive,8034260,WP04_Kalabo HC
+4,October,2025-10-01,Yeta,36.0,F,Yes,No,Yes,No,No,WP-04/10-25/004,Positive,8034261,WP04_Kalabo HC
+5,October,2025-10-01,Malelekwa,9.0,F,Yes,No,Yes,No,No,WP-04/10-25/005,Positive,8034262,WP04_Kalabo HC
+6,October,2025-10-01,Maleleko,10.0,F,Yes,No,Yes,No,No,WP-04/10-25/006,Positive,8034263,WP04_Kalabo HC
+7,October,2025-10-02,Malongo,15.0,M,Yes,No,Yes,No,No,WP-04/10-25/007,Positive,8034264,WP04_Kalabo HC
+8,October,2025-10-02,Maleleko,7.0,M,Yes,No,Yes,No,No,WP-04/10-25/008,Positive,8034265,WP04_Kalabo HC
+9,October,2025-10-02,Kashitu,14.0,F,Yes,No,Yes,No,No,WP-04/10-25/009,Positive,8034266,WP04_Kalabo HC
+10,October,2025-10-05,Yeta,11.0,F,Yes,No,Yes,Yes,No,WP-04/10-25/010,Positive,8034267,WP04_Kalabo HC
+11,October,2025-10-05,Yeta,8.0,M,Yes,No,Yes,Yes,No,WP-04/10-25/011,Positive,8034268,WP04_Kalabo HC
+12,October,2025-10-05,Nalionwa,27.0,F,Yes,No,Yes,No,No,WP-04/10-25/012,Positive,8034269,WP04_Kalabo HC
+13,October,2025-10-05,Kashitu,22.0,F,Yes,No,Yes,No,No,WP-04/10-25/013,Positive,8034270,WP04_Kalabo HC
+14,October,2025-10-10,Lubosi,34.0,F,Yes,No,Yes,No,No,WP-04/10-25/014,Positive,8034271,WP04_Kalabo HC
+15,October,2025-10-10,Riverside,39.0,F,Yes,No,Yes,No,No,WP-04/10-25/015,Positive,8034272,WP04_Kalabo HC
+16,October,2025-10-10,Ulele,4.0,M,Yes,No,Yes,No,No,WP-04/10-25/016,Positive,8034273,WP04_Kalabo HC
+17,October,2025-10-10,Lunda Mbuyu,19.0,M,Yes,No,Yes,No,No,WP-04/10-25/017,Positive,8034274,WP04_Kalabo HC
+18,October,2025-10-10,Nalionwa,18.0,M,Yes,No,Yes,No,No,WP-04/10-25/018,Positive,8034275,WP04_Kalabo HC
+19,October,2025-10-10,Nalionwa,17.0,F,Yes,No,Yes,No,No,WP-04/10-25/019,Positive,8034276,WP04_Kalabo HC
+20,October,2025-10-10,Yeta,5.0,M,Yes,No,Yes,No,No,WP-04/10-25/020,Positive,8034277,WP04_Kalabo HC
+21,October,2025-10-10,Lubosi,79.0,F,Yes,No,Yes,No,No,WP-04/10-25/021,Positive,8034278,WP04_Kalabo HC
+22,October,2025-10-10,Sunset,17.0,M,Yes,No,Yes,No,No,WP-04/10-25/022,Positive,8034279,WP04_Kalabo HC
+23,October,2025-10-15,Kalenga,8.0,F,Yes,No,Yes,No,No,WP-04/10-25/023,Positive,8034280,WP04_Kalabo HC
+24,October,2025-10-20,Sikundu,6.0,M,Yes,No,Yes,No,No,WP-04/10-25/024,Positive,8034281,WP04_Kalabo HC
+25,October,2025-10-21,Nalionwa,18.0,F,Yes,No,Yes,No,No,WP-04/10-25/025,Positive,8034282,WP04_Kalabo HC
+1,November,2025-11-03,Zuze,16.0,M,Yes,No,Yes,No,No,WP-04/11-25/001,Postive,8034283,WP04_Kalabo HC
